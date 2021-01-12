@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-# You can check the demo [here] (https://dreamy-hamilton-41539a.netlify.app/) 
+## You can check the demo [here] (https://dreamy-hamilton-41539a.netlify.app/) 
+
+### Special thanks from ## [Maria Borysova] (https://dribbble.com/mary_borysova) for awesome design.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
